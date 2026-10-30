@@ -40,7 +40,7 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^8.0.10",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@babel/plugin-proposal-decorators": "^7.12.12",
     "@babel/plugin-proposal-export-default-from": "^7.12.1",
@@ -93,7 +93,7 @@
     "ts-dedent": "^2.0.0",
     "util-deprecate": "^1.0.2",
     "webpack": "^5.9.0",
-    "webpack-dev-middleware": "^4.1.0",
+    "webpack-dev-middleware": "^8.6.0",
     "webpack-hot-middleware": "^2.25.0",
     "webpack-virtual-modules": "^0.4.1"
   },
